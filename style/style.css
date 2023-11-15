@@ -2,6 +2,5 @@ h1{
     font-family: 'Glass Antiqua', cursive;
 font-family: 'Yellowtail', cursive;
 }
-div{
-    font: bold 40px;
-}
+ul{{border:solid 3px rgb(213, 15, 15);
+    background-color:black;}}
