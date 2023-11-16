@@ -4,4 +4,6 @@ font-family: 'Yellowtail', cursive;
 }
 .nav{ border:solid 3px rgb(213, 15, 15);
     background-color:black;}
-li{display: inline;}
+li{display: inline;
+padding: 3px;
+margin:10px;}
