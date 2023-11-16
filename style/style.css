@@ -3,8 +3,7 @@ h1{
 font-family: 'Yellowtail', cursive;
 }
 div{ border:solid 3px rgb(209, 16, 16);
-    background-color:rgb(12, 16, 200);}
-li{
-display: inline;
-padding: 3px;
-margin:10px;}
+    background-color:rgb(12, 16, 200);
+    display: inline;
+    padding: 3px;
+    margin:10px;}
