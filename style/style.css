@@ -2,8 +2,8 @@ h1{
     font-family: 'Glass Antiqua', cursive;
 font-family: 'Yellowtail', cursive;
 }
-div{ border:solid 3px rgb(209, 16, 16);
-    background-color:rgb(12, 16, 200);
+div{ border:solid 3px ;
+    
     display: inline;
     padding: 3px;
     margin:10px;}
