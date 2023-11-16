@@ -12,7 +12,8 @@ div{ border:solid 3px ;
 .thai{
     position: absolute;
     bottom: 0px;
-    right: 0px;}
+    right: 0px;
+    float: left;}
     
 .chicken{
     position:absolute;
