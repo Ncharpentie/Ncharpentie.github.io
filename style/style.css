@@ -9,11 +9,18 @@ div{ border:solid 3px ;
     display: inline;
     padding: 3px;
     margin:10px;}
-img{
-    position: fixed;
+.thai{
+    position: absolute;
     top: 50px;
     right: 0px;
     width: 100px;
     height: 100px;
+}
+.chicken{
+    position:absolute;
+    top:100px;
+    right:0px;
+    width:100px;
+    height:100px;
 }
 
