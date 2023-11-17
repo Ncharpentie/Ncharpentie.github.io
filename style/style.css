@@ -17,10 +17,11 @@ div{ border:solid 3px ;
     
 .chicken{
     position:relative;
-   bottom:0px;
-   right: 0px;
+   bottom:px;
+   left: 0px;
    width:100px;
     height:100px;
+    float: left;
 }
 #food{
     width:fit-content;
