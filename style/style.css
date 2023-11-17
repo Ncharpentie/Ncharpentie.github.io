@@ -18,10 +18,14 @@ div{ border:solid 3px ;
 .chicken{
     position:absolute;
    bottom:100px;
+   right: 0px;
    width:100px;
     height:100px;
 }
 #food{
+    width:fit-content;
+}
+#thaifood{
     width:fit-content;
 }
 body{
