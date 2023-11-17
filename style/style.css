@@ -16,7 +16,7 @@ div{ border:solid 3px ;
     float: left;}
     
 .chicken{
-    position:absolute;
+    position:relative;
     margin-top: 100px;
    bottom:0px;
    right: 0px;
