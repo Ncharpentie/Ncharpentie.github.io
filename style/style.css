@@ -14,8 +14,8 @@ background-color:rgb(158, 223, 245) ;
 .chicken{
     position:relative;
    bottom:25px;
-   width:100px;
-    height:100px;
+   width:200px;
+    height:200px;
     float: right;
 }
 #food{
