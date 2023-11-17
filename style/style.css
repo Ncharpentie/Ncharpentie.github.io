@@ -17,8 +17,9 @@ div{ border:solid 3px ;
     
 .chicken{
     position:absolute;
-   float: right;
-width:100px;
+   float: left;
+   bottom:100px;
+   width:100px;
     height:100px;
 }
 body{
