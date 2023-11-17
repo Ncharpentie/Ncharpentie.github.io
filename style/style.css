@@ -25,6 +25,7 @@ background-color:rgb(158, 223, 245) ;
 }
 #thaifood{
     width:fit-content;
+    diplay:inline-block;
 }
 body{
     background-color: lightgreen;
