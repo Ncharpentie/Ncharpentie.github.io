@@ -25,5 +25,9 @@ div{ border:solid 3px ;
 body{
     background-color: lightgreen;
 }
+.writing{
+    background-color:lightsalmon;
+    border-radius: 30px;
+}
 
 
