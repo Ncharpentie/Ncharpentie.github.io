@@ -28,6 +28,7 @@ body{
 .writing{
     background-color:lightsalmon;
     border-radius: 30px;
+    display: block;
 }
 
 
