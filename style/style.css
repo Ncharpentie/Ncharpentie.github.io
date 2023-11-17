@@ -23,7 +23,7 @@ div{ border:solid 3px ;
     height:100px;
 }
 #food{
-    width:200px;
+    width:fit-content;
 }
 body{
     background-color: lightgreen;
