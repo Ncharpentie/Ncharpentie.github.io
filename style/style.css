@@ -17,7 +17,6 @@ div{ border:solid 3px ;
     
 .chicken{
     position:relative;
-  
    bottom:0px;
    right: 0px;
    width:100px;
@@ -25,6 +24,7 @@ div{ border:solid 3px ;
 }
 #food{
     width:fit-content;
+    display: inline-block;
 }
 #thaifood{
     width:fit-content;
